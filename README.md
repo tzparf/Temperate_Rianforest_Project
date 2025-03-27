@@ -1,7 +1,9 @@
 # Temperate Rianforest Project
 Assessing the impacts of climate change on temperate rainforests using UKCP18 data
 
-  Research Aim:
+Temperate rainforest is a globally rare habitat. The UK holds approximately 7.5% of the temperate rainforest biome and is consequently important to the conservation of the habitat. Sadly, due to deforestation, the UK’s rainforest is fragmented and at risk of biodiversity loss. Fragments of remaining woodland are often at risk from over grazing and suffer from invasive Rhododendron. While these threats of fragmentation, over grazing and invasives are well documented for temperate rainforests, little is understood of the threat that climate change poses to these already fragile woodlands.    
+
+Research Aim:
   
 Assess how the bioclimatic conditions that are used to determine temperate rainforests change under a high emission scenario (RCP8.5) 
 
@@ -9,9 +11,7 @@ Assess how the bioclimatic conditions that are used to determine temperate rainf
   
 What does climate change look like the UK's rainforests
 provide a picture of UK rainforest areas most vulnerable to climate change.
-A consideration of potential rainforest loss due to climate change
-
-Temperate rainforest is a globally rare habitat. The UK holds approximately 7.5% of the temperate rainforest biome and is consequently important to the conservation of the habitat. Sadly, due to deforestation, the UK’s rainforest is fragmented and at risk of biodiversity loss. Fragments of remaining woodland are often at risk from over grazing and suffer from invasive Rhododendron. While these threats of fragmentation, over grazing and invasives are well documented for temperate rainforests, little is understood of the threat that climate change poses to these already fragile woodlands.     
+A consideration of potential rainforest loss due to climate change 
 
 # Temperate Rainforest definitions
 Definitons of temperate rainforest across the world and in the UK have often been created by mapping climatic variables. This can be done in a number of different methods, those investigated in this project are listed below;
