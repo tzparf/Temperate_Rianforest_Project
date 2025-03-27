@@ -1,4 +1,4 @@
-# Temperate_Rianforest_Project
+# Temperate Rianforest Project
 Assessing the impacts of climate change on temperate rainforests using UKCP18 data
 
   Research Aim:
