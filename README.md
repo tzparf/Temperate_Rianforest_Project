@@ -39,3 +39,8 @@ While not having been directly used to determine rainforest, it is recognised as
 
 This project uses RCP8.5 UKCP18 data to see how the climatic variables listed above change between the baseline period 1981 - 2000 and the future of 2061 - 2080.
 
+# Notes on code
+
+Some netCDF files could not be uplaoded due to their size. but the rasters have already been created from these netCDFs so ignore script 1e.
+
+For more notes on code, see Admin/notes script
