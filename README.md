@@ -41,6 +41,6 @@ This project uses RCP8.5 UKCP18 data to see how the climatic variables listed ab
 
 # Notes on code
 
-Some netCDF files could not be uplaoded due to their size. but the rasters have already been created from these netCDFs so ignore script 1e.
+The netCDF files could not be uplaoded to GitHub due to their size. The NetCDFs can be downlaoded from the metOffice (https://ukclimateprojections-ui.metoffice.gov.uk/ui/home). For ease, the rasters created from these netCDFs have already been added, so ignore scripts 1a-e and start from 2a if not wanting to download netCDFs.
 
-For more notes on code, see Admin/notes script
+For more notes on code, see Admin/notes script. 
